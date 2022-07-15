@@ -1,0 +1,1 @@
+(1+(increaseTransm/100))*(1/5.5)

@@ -1,0 +1,1 @@
+(time(DAY) > mutationStartDate ) ? (time(DAY)-mutationStartDate)/7 : 0

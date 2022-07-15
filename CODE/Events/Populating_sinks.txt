@@ -1,0 +1,6 @@
+if (countTime < freespread) {
+	MaxStringency = 0;
+	} 
+else if (countTime > freespread) {
+	MaxStringency = 1;
+	}

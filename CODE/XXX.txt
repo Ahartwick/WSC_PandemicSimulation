@@ -1,0 +1,1 @@
+delay(TF_XXX( new_cases ), delay_str)

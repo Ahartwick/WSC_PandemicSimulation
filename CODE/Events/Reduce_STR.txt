@@ -1,0 +1,8 @@
+if (manual_reduction_on == 1) 
+{
+Manual_Reduction = 1.8;
+}
+else
+{
+Manual_Reduction = 1;
+}

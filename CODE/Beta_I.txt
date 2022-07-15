@@ -1,0 +1,1 @@
+((1+impactOn_betaMAX)*betaMAX) - WSChange

@@ -1,0 +1,2 @@
+beta_low + ((betaI - beta_low) / (1 - caseFatalityRate))
+		* (1 - hiddenFraction)

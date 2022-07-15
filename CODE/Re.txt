@@ -1,0 +1,1 @@
+Ue/((1/5.5)*transitionI*transitionH_D*transitionDandUD*transitionDandUD) * (Susceptible/TotalPopulation)

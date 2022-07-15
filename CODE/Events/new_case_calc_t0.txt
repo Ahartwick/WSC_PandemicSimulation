@@ -1,0 +1,4 @@
+if (omegaW1-cum_cases_t0 > 0){
+cum_cases_to=cum_cases_t1;
+cum_cases_t1 = omegaW1;
+}

@@ -1,0 +1,12 @@
+newcase_t0 = newcase_t1;
+newcase_t1 = new_cases;
+relative_increase = newcase_t1 - newcase_t0;
+
+if ((relative_increase) < 0) {
+	delay_str = delay_adjustment; 
+	delay_adj = delay_adjustment;
+} else if ((relative_increase) > 0) {
+	delay_str = delay_stringency; 
+	delay_adj = delay_stringency;
+	
+}

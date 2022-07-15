@@ -1,0 +1,5 @@
+(((mI_UD*betaI_UD*(1-hiddenFraction)*transitionDandUD 
++ mH_R*betaH_R*transitionDandUD*(hiddenFraction-caseFatalityRate))*transitionI
++ mI*betaI*transitionDandUD*transitionDandUD)*(1/5.5)
++ mE*betaE*transitionI*transitionDandUD*transitionDandUD)*transitionH_D
++ (mH_D*betaH_D*caseFatalityRate*(1/5.5)*transitionI*transitionDandUD*transitionDandUD)

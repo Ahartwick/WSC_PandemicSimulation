@@ -1,0 +1,8 @@
+(share_healthcare*(betaI / transitionI + betaE / (1/5.5)
+				+ (1 - hiddenFraction) * betaI_UD
+						/ transitionDandUD))
+		/ ((1 - share_healthcare) * betaI * hiddenFraction
+				* (1 - caseFatalityRate / hiddenFraction)
+				* 1 / transitionDandUD
+				+ caseFatalityRate / hiddenFraction * 1
+						/ transitionH_D)

@@ -1,0 +1,10 @@
+t0=t1;
+t1=time();
+m0=m1;
+
+if (time()>changeM_time){
+m1=recalculation;
+mNew=(m0-m1)*exp(-k*(t1-t0))+m1;
+} else {
+mNew=(m0-m1)*exp(-k*(t1-t0))+m1;
+}

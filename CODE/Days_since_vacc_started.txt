@@ -1,0 +1,1 @@
+(time() > FV) ? (time() - FV)*vacc_on : 0

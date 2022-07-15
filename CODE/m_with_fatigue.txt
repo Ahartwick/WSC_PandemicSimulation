@@ -1,0 +1,1 @@
+(((mNew * Manual_Reduction)/ReductionFactor)*F1)+(F2*(1-HSTRValue))

@@ -1,0 +1,2 @@
+(ProportionOfSequencing > 0)? 
+(1-ProportionOfSequencing):0

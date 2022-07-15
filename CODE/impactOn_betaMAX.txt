@@ -1,0 +1,1 @@
+(mutantFlow==0)?0: (impactFromTransm*(increaseTransm/100)*impactFromProport*AdjProportionOfSequencing)

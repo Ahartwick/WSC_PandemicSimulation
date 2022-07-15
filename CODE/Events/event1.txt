@@ -1,0 +1,4 @@
+if (time() == day_first_infection) {
+ postponing_infection = 1;
+}
+
